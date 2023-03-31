@@ -23,3 +23,6 @@ See [here](https://stackoverflow.com/questions/59895/how-do-i-get-the-directory-
 The *usage* function is like minimal documentation for developers and man on my script for users                
 
 The *cleanup* function is triggered by trap(in case of normal completion, or due to an error or an external signal) command and used for cleaning the temporary files script has created.
+     
+     
+I will be glad hearing feedback on my template on Telegram: @elshirak. Have a nice day! :)
